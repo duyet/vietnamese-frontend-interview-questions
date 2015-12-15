@@ -142,7 +142,6 @@ console.log('three');
 * Những dữ án nào mà bạn cho là thú vụ đã từng làm qua?
 * Bạn hay sử dụng các công cụ (tools) nào? 
 * Bạn thích tính năng nào của Internet Explorer nhất?
-* 
 
 ------------------------------------------
 
