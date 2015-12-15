@@ -28,10 +28,24 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 ------------------------------------------
 
 ## Hỏi chung
-*(Coming soon)*
+
+* Những điểm nào mà bạn thích, hoặc không thích về lập trình?
+* Khác nhau giữa UI và UX?
+* Nói về môi trường làm việc mà bạn mong muốn?
+* Ba cách để giảm dung lượng tải trang?
+* CORS?
 
 ## Hỏi về HTML
-*(Coming soon)*
+
+* Tác dụng của `doctype`?
+* Khác nhau giữa HTML và XHTML là gì?
+* Có vấn đề gì không nếu lưu trang MIME dạng `application/xhtml+xml`?
+* Điều gì mà bạn cần phải chú ý nếu xây dựng và phát triển các trang web đa ngôn ngữ?
+* Thuộc tính `data-` dùng để làm gì?
+* Nếu HTML5 là nguồn mở, thẻ HTML nào mà bạn sẽ phát triển thêm?
+* Khác nhau giữa `cookie`, `sessionStorage` và `localStorage`.
+* Khác nhau giữa `<script>`, `<script async>` và `<script defer>`.
+* Tại sao nên đặt `<link>` trong thẻ `<head></head>` và đặt `<script>` sau thẻ `</body>`. Ngoại lệ khi nào?
 
 ## Hỏi về CSS
 *(Coming soon)*
