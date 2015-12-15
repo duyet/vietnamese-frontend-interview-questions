@@ -8,7 +8,7 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 
 # Table of Contents
 
-1. Các câu hỏi chung
+1. Hỏi chung
 2. Hỏi về HTML 
 3. Hỏi về CSS
 4. Hỏi về Javascript
@@ -25,7 +25,34 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 3. [License](https://github.com/duyetdev/phong-van-frontend-toan-tap/blob/master/LICENSE)
 
 ------------------------------------------
-(Coming soon)
+
+## Hỏi chung
+*(Coming soon)*
+
+## Hỏi về HTML
+*(Coming soon)*
+
+## Hỏi về CSS
+*(Coming soon)*
+
+## Hỏi về Javascript
+*(Coming soon)*
+
+## Hỏi về Testing 
+*(Coming soon)*
+
+## Hỏi về hiệu suất
+*(Coming soon)*
+
+## Hỏi về Network
+*(Coming soon)*
+
+## Hỏi về Coding
+*(Coming soon)*
+
+## Hỏi chơi cho vui 
+*(Coming soon)*
+
 ------------------------------------------
 
 # Contributors
