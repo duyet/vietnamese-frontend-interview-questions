@@ -1,10 +1,11 @@
 # Tuyển tập các câu hỏi phỏng vấn vị trí Front-end
 
-Mục đích của trang là tổng hợp lại danh sách các câu hỏi phỏng vấn cho vị trí lập trình viên Front-end. 
+Mục đích của trang là tổng hợp lại danh sách các câu hỏi tham khảo phỏng vấn cho vị trí lập trình viên Front-end. 
+
 Với mong muốn mọi người cùng giúp nhau chuẩn bị tốt hơn cho cuộc phỏng vấn sắp tới của mình, đồng thời
 giúp ôn lại các kỹ năng của một lập trình viên Frontend. 
 
-
+Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#contributors).
 
 # Table of Contents
 
@@ -56,10 +57,11 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 ------------------------------------------
 
 # Contributors
-* 15/12/2015, dự án được khởi động bởi @duyetdev
+* 15/12/2015, dự án được khởi động bởi [@duyetdev](https://github.com/duyetdev)
 
 # How to Contribute
 Trang được xây dựng bởi cộng đồng. Để đóng góp vào danh sách câu hỏi, vui lòng: 
+
 1. Fork repo tại Github: [https://github.com/duyetdev/phong-van-frontend-toan-tap](https://github.com/duyetdev/phong-van-frontend-toan-tap)
 2. Commit câu hỏi trực tiếp vào file README.md, nhánh master.
 3. Tạo Pull Request.
