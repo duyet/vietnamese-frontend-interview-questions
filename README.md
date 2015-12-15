@@ -7,6 +7,8 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 
 Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#contributors).
 
+![](http://i.imgur.com/qJhyreL.jpg)
+
 # Table of Contents
 
 1. [Hỏi chung](#hỏi-chung)
