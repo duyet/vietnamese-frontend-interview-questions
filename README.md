@@ -37,22 +37,98 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 *(Coming soon)*
 
 ## Hỏi về Javascript
-*(Coming soon)*
+
+* Ý nghĩa của biến `this`.
+* Sử dụng **AMD** và **CommonJS** có tốt hay không? Tại sao tốt hoặc không tốt?
+* Nếu viết theo kiểu IIFE, tại sao đoạn mã sau bị lỗi? `function foo(){ }();`
+  * Sửa lại
+* Khác nhau giữa `null`, `undefined` hoặc chưa khai báo?
+  * Cách kiểm tra từng trường hợp trên.
+* Khác nhau giữa **host objects** và **native objects** là gì?
 
 ## Hỏi về Testing 
-*(Coming soon)*
+
+* Có nên sử dụng các công cụ Lint Style hay không? Tại sao?
 
 ## Hỏi về Performance
-*(Coming soon)*
+
+* Bạn hay xài công cụ nào để kiểm tra lỗi về hiệu suất tải trên trình duyệt? 
+* Giải thích sự khác nhau giữa layout, painting và compositing.
 
 ## Hỏi về Network
-*(Coming soon)*
+
+* Tại sao lưu resource (js/css/...) trên nhiều domain sẽ tốt hơn? 
+* Sự khác nhau giữa Long-Polling, Websockets và Server-Sent?
+* Giải thích ý nghĩa của mấy cái HTTP Header sau:
+  * Diff. between Expires, Date, Age and If-Modified-...
+  * Do Not Track
+  * Cache-Control
+  * Transfer-Encoding
+  * ETag
+  * X-Frame-Options
+* HTTP action là gì?
 
 ## Hỏi về Coding
-*(Coming soon)*
+**Hỏi:** `foo` có giá trị là bao nhiêu?
+```js
+var foo = 10 + '20';
+```
+
+**Hỏi:** Viết hàm `add` để thực hiện được câu lệnh sau:
+```js
+add(2, 5); // 7
+add(2)(5); // 7
+```
+
+**Hỏi:** Kết quả trả về của hàm lệnh sau là gì?
+```js
+"i'm a developer".split("").reverse().join("");
+```
+
+**Hỏi:** Giá trị của `window.foo` là gì?
+```js
+( window.foo || ( window.foo = "bar" ) );
+```
+
+**Hỏi:** Kết quả của 2 lệnh `alert` là gì?
+```js
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+```
+
+**Hỏi:** Giá trị của `foo.length` trong trường hợp sau?
+```js
+var foo = [];
+foo.push(1);
+foo.push(2);
+```
+
+**Hỏi:** Giá trị của `foo.x` trong trường hợp sau?
+```js
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+```
+
+**Hỏi:** Các lệnh sau sẽ in ra console cái gì?
+```js
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+```
 
 ## Hỏi chơi cho vui 
-*(Coming soon)*
+
+* Những dữ án nào mà bạn cho là thú vụ đã từng làm qua?
+* Bạn hay sử dụng các công cụ (tools) nào? 
+* Bạn thích tính năng nào của Internet Explorer nhất?
+* 
 
 ------------------------------------------
 
