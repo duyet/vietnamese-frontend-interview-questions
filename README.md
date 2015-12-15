@@ -8,15 +8,15 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 
 # Table of Contents
 
-1. Hỏi chung
-2. Hỏi về HTML 
-3. Hỏi về CSS
-4. Hỏi về Javascript
-5. Hỏi về Testing 
-6. Hỏi về hiệu suất
-7. Hỏi về Network
-8. Hỏi về Coding
-9. Hỏi chơi cho vui 
+1. [Hỏi chung](#hỏi-chung)
+2. [Hỏi về HTML](#hỏi-về-html)
+3. [Hỏi về CSS](#hỏi-về-css)
+4. [Hỏi về Javascript](#hỏi-về-javascript)
+5. [Hỏi về Testing](#hỏi-về-testing)
+6. [Hỏi về Performance](#hỏi-về-performance)
+7. [Hỏi về Network](#hỏi-về-network)
+8. [Hỏi về Coding](#hỏi-về-coding)
+9. [Hỏi chơi cho vui](#hỏi-chơi-cho-vui)
 
 # Getting Involved
 
@@ -41,7 +41,7 @@ giúp ôn lại các kỹ năng của một lập trình viên Frontend.
 ## Hỏi về Testing 
 *(Coming soon)*
 
-## Hỏi về hiệu suất
+## Hỏi về Performance
 *(Coming soon)*
 
 ## Hỏi về Network
