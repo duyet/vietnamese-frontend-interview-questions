@@ -2,8 +2,8 @@
 
 Mục đích của trang là tổng hợp lại danh sách các câu hỏi tham khảo phỏng vấn cho vị trí lập trình viên Front-end. 
 
-Với mong muốn mọi người cùng giúp nhau chuẩn bị tốt hơn cho cuộc phỏng vấn sắp tới của mình, đồng thời
-giúp ôn lại các kỹ năng của một lập trình viên Frontend. 
+Với mong muốn giúp những ai đang sắp được phỏng vấn chuẩn bị tốt hơn, đồng thời
+giúp ôn lại các kiến thức về front-end một cách vững chắc nhất. 
 
 Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#contributors).
 
@@ -25,7 +25,7 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 
 1. [Contributors](#contributors)
 2. [How to Contribute](#how-to-contribute)
-3. [License](https://github.com/duyetdev/phong-van-frontend-toan-tap/blob/master/LICENSE)
+3. [License](https://github.com/duyetdev/frontend-interview-questions-vietnamese/blob/master/LICENSE)
 
 ------------------------------------------
 
@@ -153,6 +153,6 @@ console.log('three');
 # How to Contribute
 Trang được xây dựng bởi cộng đồng. Để đóng góp vào danh sách câu hỏi, vui lòng: 
 
-1. Fork repo tại Github: [https://github.com/duyetdev/phong-van-frontend-toan-tap](https://github.com/duyetdev/phong-van-frontend-toan-tap)
+1. Fork repo tại Github: [https://github.com/duyetdev/frontend-interview-questions-vietnamese](https://github.com/duyetdev/frontend-interview-questions-vietnamese)
 2. Commit câu hỏi trực tiếp vào file README.md, nhánh master.
 3. Tạo Pull Request.
