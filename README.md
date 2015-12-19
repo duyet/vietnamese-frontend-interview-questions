@@ -1,4 +1,4 @@
-# Tuyển tập các câu hỏi phỏng vấn vị trí Front-end
+# Tuyển tập câu hỏi phỏng vấn Front-end
 
 Mục đích của trang là tổng hợp lại danh sách các câu hỏi tham khảo phỏng vấn cho vị trí lập trình viên Front-end. 
 
