@@ -5,7 +5,7 @@ Mục đích của trang là tổng hợp lại danh sách các câu hỏi tham 
 Với mong muốn giúp những ai đang sắp được phỏng vấn chuẩn bị tốt hơn, đồng thời
 giúp ôn lại các kiến thức về front-end một cách vững chắc nhất. 
 
-Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#contributors).
+Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#how-to-contribute).
 
 ![](http://i.imgur.com/qJhyreL.jpg)
 
