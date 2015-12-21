@@ -51,6 +51,19 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Tại sao nên đặt `<link>` trong thẻ `<head></head>` và đặt `<script>` sau thẻ `</body>`. Ngoại lệ khi nào?
 
 ## Hỏi về CSS
+
+* CSS framework là gì?
+* Có mấy cách để sử dụng CSS trên trang web?
+* Lợi / hại của việc sử dụng External Style Sheets?
+* Giải thích Ruleset là gì?
+* **Case-sensitivity** - ngôn ngữ css có phân biệt hoa thường khi nào? 
+* Khác nhau giữa Class selector và Id selector?
+* Pseudo-elements là gì?
+* Cách nào đổi khôi phục thuộc tính mặc định của một đối tượng? 
+ * Ex: thẻ `<a class="color1 color2">` có màu đỏ, sau đó bị class `color2` đè lên thành màu xanh. Cú pháp nào để khôi phục lại thành màu trước đó?
+* `z-index` dùng để làm gì?
+* Tại sao `@import` chỉ có thể sử dụng ở đầu file?
+
 *(Coming soon)*
 
 ## Hỏi về Javascript
