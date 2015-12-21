@@ -36,6 +36,7 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Nói về môi trường làm việc mà bạn mong muốn?
 * Ba cách để giảm dung lượng tải trang?
 * CORS?
+* Bla bla ...
 
 ## Hỏi về HTML
 
