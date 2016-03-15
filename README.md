@@ -75,6 +75,9 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Khác nhau giữa `null`, `undefined` hoặc chưa khai báo?
   * Cách kiểm tra từng trường hợp trên.
 * Khác nhau giữa **host objects** và **native objects** là gì?
+* Javascript closure là gì?
+* `ES6` Yeild là gì? [giải thích](https://blog.duyetdev.com/2016/02/generator-function-javascript.html)
+* `ES6` Function* là gì? [giải thích](https://blog.duyetdev.com/2016/02/generator-function-javascript.html)
 
 ## Hỏi về Testing 
 
@@ -152,6 +155,7 @@ setTimeout(function() {
 }, 0);
 console.log('three');
 ```
+
 
 ## Hỏi chơi cho vui 
 
