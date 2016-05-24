@@ -172,6 +172,7 @@ console.log (foo || baz());
 * Bạn hay sử dụng các công cụ (tools) nào? 
 * Bạn thích tính năng nào của Internet Explorer nhất?
 * Bạn cho biết cách để đo thời gian chạy của một đoạn code javascript, chính xác tới ms?
+
 ------------------------------------------
 
 # Contributors
