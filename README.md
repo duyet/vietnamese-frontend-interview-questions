@@ -176,6 +176,8 @@ console.log (foo || baz());
 ------------------------------------------
 
 # Contributors
+
+* 24/06/2016, pull request [#1](https://github.com/duyetdev/vietnamese-frontend-interview-questions/pull/1) - [@dannyphung](https://github.com/dannyphung)
 * 15/12/2015, dự án được khởi động bởi [@duyetdev](https://github.com/duyetdev)
 
 # How to Contribute
