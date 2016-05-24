@@ -156,12 +156,22 @@ setTimeout(function() {
 console.log('three');
 ```
 
+**Hỏi:** Các lệnh sau sẽ in ra console cái gì?
+```js
+baz = function() {
+ return "some thing cool";
+}
+foo = false;
+console.log (foo && baz());
+console.log (foo || baz());
+```
 
 ## Hỏi chơi cho vui 
 
 * Những dữ án nào mà bạn cho là thú vụ đã từng làm qua?
 * Bạn hay sử dụng các công cụ (tools) nào? 
 * Bạn thích tính năng nào của Internet Explorer nhất?
+* Bạn cho biết cách để đo thời gian chạy của một đoạn code javascript, chính xác tới ms?
 
 ------------------------------------------
 
