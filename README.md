@@ -7,7 +7,7 @@ giúp ôn lại các kiến thức về front-end một cách vững chắc nh�
 
 Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tại đây](#how-to-contribute).
 
-![](http://i.imgur.com/qJhyreL.jpg)
+![](https://i.imgur.com/qJhyreL.jpg)
 
 # Table of Contents
 
