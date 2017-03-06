@@ -174,23 +174,23 @@ console.log (foo && baz());
 console.log (foo || baz());
 ```
 
-**Hỏi:** Cho var string = ['1','3','4','10','2','5','9','7','8','6'] in ra kết quả sau
-```js 10 9 8 7
-      6 5 4 
-      3 2 
-      1
+**Hỏi:** Cho `var string = ['1','3','4','10','2','5','9','7','8','6']` in ra kết quả sau
+```js
+10 9 8 7
+6 5 4 
+3 2 
+1
 ```
 
 ## Hỏi chơi cho vui 
 
-* Những dữ án nào mà bạn cho là thú vụ đã từng làm qua?
+* Những dự án nào mà bạn cho là thú vị đã từng làm qua?
 * Bạn hay sử dụng các công cụ (tools) nào? 
 * Bạn thích tính năng nào của Internet Explorer nhất?
 * Bạn cho biết cách để đo thời gian chạy của một đoạn code javascript, chính xác tới ms?
 * Cho 8 viên bi trong đó có 7 viên cùng khối lượng và 1 viên còn lại nặng hơn ? 
-Cho 1 cái cân -|- (kiểu vậy)
-Làm sao để tìm viên bi nặng hơn nhanh nhất ?
-* Cho 2 sợi dây. Đốt 2 sợi dây đó thì mất 1 tiếng . Hỏi trong 45 phút thì làm sao có thể đốt được 2 sợi dây đó.
+* Cho 1 cái cân -|- (kiểu vậy). Làm sao để tìm viên bi nặng hơn nhanh nhất ?
+* Cho 2 sợi dây. Đốt 2 sợi dây đó thì mất 1 tiếng. Hỏi trong 45 phút thì làm sao có thể đốt được 2 sợi dây đó.
 
 ------------------------------------------
 
